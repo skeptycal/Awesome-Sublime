@@ -1,4 +1,6 @@
-# Sublime
+![Sublime Text Logo][logo]
+
+# Awesome Sublime
 
 A collection of some of the best Sublime Text packages, themes, tutorials, articles and goodies.
 
@@ -249,3 +251,6 @@ Feel free to contribute helpful links that could make the use of Sublime easier.
 I'll make sure to answer to all issues issued and all pull requests pulled. Typos, suggestions, broken links, grammar errors, whatever. Go right ahead.
 
 Huge thanks to the Sublime team at Sublime Text for producing such a wonderful editor, and thanks to [@wbond](https://github.com/wbond) for creating Package Control.
+
+[logo]: https://github.com/skeptycal/Awesome-Sublime/blob/master/sublime_logo.svg "Sublime Text"
+
