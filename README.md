@@ -2,11 +2,11 @@
 
 # Awesome Sublime
 
-A collection of some of the best Sublime Text packages, themes, tutorials, articles and goodies.
+An awesome collection of some of the best Sublime Text packages, themes, tutorials, articles and goodies.
 
 ## Getting Started
 
-- [Sublime Text](http://www.sublimetext.com/) - if you haven't even installed the text editor yet, go and install the text editor
+- [Sublime Text](http://www.sublimetext.com/) - if you haven't even installed the text editor yet, go get it!
 - [Unofficial Documentation](http://docs.sublimetext.info/en/latest/index.html)
 - [Package Control](https://packagecontrol.io/) - an essential package manager for Sublime Text
 - [Brief introduction to Sublime Text customization](https://css-tricks.com/sublime-text-front-end-developers/)
@@ -174,7 +174,7 @@ For a more full list of SublimeLinters, check out [this](https://packagecontrol.
 
 ### Themes
 
-- [Afterglow](https://packagecontrol.io/packages/Theme%20-%20Afterglow)
+- [Afterglow](https://packagecontrol.io/packages/Theme%20-%20Afterglow) (my favorite)
 - [Argonaut](https://packagecontrol.io/packages/Theme%20-%20Argonaut)
 - [Brogrammer](https://packagecontrol.io/packages/Theme%20-%20Brogrammer)
 - [Flatland](https://packagecontrol.io/packages/Theme%20-%20Flatland)
