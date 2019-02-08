@@ -1,4 +1,4 @@
-<img src="https://github.com/skeptycal/Awesome-Sublime/sublime_logo.svg" alt="Sublime Text Logo" width="100" />
+<img src="https://github.com/skeptycal/Awesome-Sublime/sublime_text.png" alt="Sublime Text Logo" width="100" />
 
 # Awesome Sublime
 
