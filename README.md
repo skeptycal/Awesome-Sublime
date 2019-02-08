@@ -1,4 +1,4 @@
-![Sublime Text Logo][logo]
+![Sublime Text Logo](https://github.com/skeptycal/Awesome-Sublime/blob/master/sublime_logo.svg =100x)
 
 # Awesome Sublime
 
@@ -251,6 +251,3 @@ Feel free to contribute helpful links that could make the use of Sublime easier.
 I'll make sure to answer to all issues issued and all pull requests pulled. Typos, suggestions, broken links, grammar errors, whatever. Go right ahead.
 
 Huge thanks to the Sublime team at Sublime Text for producing such a wonderful editor, and thanks to [@wbond](https://github.com/wbond) for creating Package Control.
-
-[logo]: https://github.com/skeptycal/Awesome-Sublime/blob/master/sublime_text.png "Sublime Text"
-
