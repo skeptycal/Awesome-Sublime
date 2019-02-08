@@ -252,5 +252,5 @@ I'll make sure to answer to all issues issued and all pull requests pulled. Typo
 
 Huge thanks to the Sublime team at Sublime Text for producing such a wonderful editor, and thanks to [@wbond](https://github.com/wbond) for creating Package Control.
 
-[logo]: https://github.com/skeptycal/Awesome-Sublime/blob/master/sublime_logo.svg "Sublime Text"
+[logo]: https://github.com/skeptycal/Awesome-Sublime/blob/master/sublime_text.png "Sublime Text"
 
