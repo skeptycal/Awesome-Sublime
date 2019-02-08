@@ -1,4 +1,4 @@
-![Sublime Text Logo](https://github.com/skeptycal/Awesome-Sublime/blob/master/sublime_logo.svg =100x)
+<img src="https://github.com/skeptycal/Awesome-Sublime/blob/master/sublime_logo.svg" alt="Sublime Text Logo" width="100" />
 
 # Awesome Sublime
 
