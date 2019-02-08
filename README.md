@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/skeptycal/Awesome-Sublime/master/sublime_text.png" alt="Sublime Text Logo" width="100" />
-
-# Awesome Sublime [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<img src="https://raw.githubusercontent.com/skeptycal/Awesome-Sublime/master/sublime_text.png" alt="Sublime Text Logo" width="100" /> # Awesome Sublime [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 An awesome collection of some of the best Sublime Text packages, themes, tutorials, articles and goodies.
 
